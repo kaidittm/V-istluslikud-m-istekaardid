@@ -1,0 +1,23 @@
+ennik	"tuple" on andmestruktuur, kus elementide järjestus ja elemendid ise on fikseeritud
+hulk	"set" on andmestruktuur, kus elementide omavaheline järjestus ei ole üheselt määratud
+sõnastik	"dictionary" on andmestruktuur, kus elemente hoitakse võtmete järgi
+py	Python
+string	sõne
+int	täisarv
+float	ujukomaarv
+list	järjend ()
+bool	tõeväärtus
+tk	tkinter
+print	väljasta
+return	tagasta
+input	sisend
+while	korduslause
+rekursioon	defineeriv funktsioon, mis kutsub välja iseennast
+append	lisa lõppu
+len()	pikkus
+min()	minimaalne
+max()	maksimum
+intersection	ühisosa
+union	ühend
+parim praksijuhendaja	Jaan Janno
+Eesti	Tallinn
